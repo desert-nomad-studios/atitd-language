@@ -4,7 +4,10 @@ translate "Pick up the O1:K1"
 to french "Prendre O1(lns) O1(ns):K1";
 
 translate "Picked up O1:K1."
-to french "O1(ns):K1 ramassé.";
+to french "O1(ns):K1 ramassï¿½.";
 
 translate "You're carrying too much - drop some stuff before picking up any K1."
-to french "Vous êtes trop chargé. Abandonnez quelque chose avant de prendre K1.";
+to french "Vous ï¿½tes trop chargï¿½. Abandonnez quelque chose avant de prendre K1.";
+
+translate "Install a small steam engine"
+to french "Installer une petite machine Ã  vapeur";

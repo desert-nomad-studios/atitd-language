@@ -2,37 +2,37 @@ module watermining_fre;
 
 translate WaterMining to french masculine
 {
-  ns "Forage à l'eau"; np "Forage à l'eau";
+  ns "Forage ï¿½ l'eau"; np "Forage ï¿½ l'eau";
 }
 
 translate WaterMine to french feminine
 {
-  ns "Mine à eau"; np "Mines à eau";
+  ns "Mine ï¿½ eau"; np "Mines ï¿½ eau";
 }
 
 translate "A novel method of extracting gems from the mud near shorelines."
-to french "Une méthode innovante d'extraction de pierres précieuses dans la boue pres des côtes.";
+to french "Une mï¿½thode innovante d'extraction de pierres prï¿½cieuses dans la boue pres des cï¿½tes.";
 
 translate "WaterMining (Completed)"
-to french "Forage à l'eau (Achevé)";
+to french "Forage ï¿½ l'eau (Achevï¿½)";
 
 translate "You study a method for shaping glass tubes into a giant spring-loaded glass helix to churn the mud, and look for gems."
-to french "Vous étudiez une méthode pour monter une hélice d'arrosage à partir de tubes en verre pour ramollir la beau et découvrir des pierres précieuses.";
+to french "Vous ï¿½tudiez une mï¿½thode pour monter une hï¿½lice d'arrosage ï¿½ partir de tubes en verre pour ramollir la beau et dï¿½couvrir des pierres prï¿½cieuses.";
 
 translate "Water Mine"
-to french "Mine à eau";
+to french "Mine ï¿½ eau";
 
 translate "To build a Water Mine, you need: "
-to french "Pour construire une mine à eau, il vous faut :";
+to french "Pour construire une mine ï¿½ eau, il vous faut :";
 
 translate "Water Mines must be built directly adjacent to water."
-to french "Les mines à eau doivent être construites juste à côté de l'eau.";
+to french "Les mines ï¿½ eau doivent ï¿½tre construites juste ï¿½ cï¿½tï¿½ de l'eau.";
 
 translate "No good place to build."
 to french "L'endroit ne convient pas.";
 
 translate "You're close enough to another water mine that they may interfere with each other. Build here anyway?"
-to french "Vous êtes trop près d'une autre mine, les deux peuvent se nuire mutuellement. Voulez-vous tout de même continuer ?";
+to french "Vous ï¿½tes trop prï¿½s d'une autre mine, les deux peuvent se nuire mutuellement. Voulez-vous tout de mï¿½me continuer ?";
 
 translate "Wind the collar spring"
 to french "Remonter le ressort";
@@ -44,19 +44,39 @@ translate "Listen to the mechanism"
 to french "Ecouter dans les tuyaux";
 
 translate "It sounds like the seashore. Wind the spring, and then listen."
-to french "Vous entendez la mer. Remontez le ressort, et écoutez à nouveau.";
+to french "Vous entendez la mer. Remontez le ressort, et ï¿½coutez ï¿½ nouveau.";
 
 translate "You hear the telltale tinkling of gems striking the mechanism."
-to french "Vous entendez le tintement caractéristique des pierres précieuses contre le verre.";
+to french "Vous entendez le tintement caractï¿½ristique des pierres prï¿½cieuses contre le verre.";
 
 translate "Aside from the unwinding of the spring in the collar, you hear nothing."
-to french "A part le bruit du ressort qui se déroule, vous n'entendez rien.";
+to french "A part le bruit du ressort qui se dï¿½roule, vous n'entendez rien.";
 
 translate "Set the Pitch"
-to french "Déterminer l'angle";
+to french "Dï¿½terminer l'angle";
 
 translate "Angle of N1"
 to french "Angle de N1";
 
 translate "Pitch is now set to N1"
 to french "L'angle est maintenant de N1";
+
+translate "Which is considered"
+to french "Câ€™est considÃ©rÃ©";
+
+translate "Empty gem basket"
+to french "Panier de gemmes vide";
+
+translate "Wind the mechanism"
+to french "Remonte le mÃ©canisme";
+
+translate Basket to french masculine
+{
+  ns "Panier"; np "Panier";
+}
+
+translate "Replace basket"
+to french "Remplace le panier";
+
+translate "Health"
+to french "SantÃ©";
