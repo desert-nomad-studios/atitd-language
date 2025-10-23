@@ -97,24 +97,21 @@ to french "Vous savez déjà ça.";
 translate "Available"
 to french "Disponible";
  
-translate "You have learned O1"
-to french "Vous avez appris O1(ns)";
-
 translate gearcasting to french feminine
-{ ns "Coul�e d'engrenage"; np "Coul�es d'engrenage";}
+{ ns "Coulée d'engrenage"; np "Coulées d'engrenage";}
 translate ChariotRepair to french masculine
 {
-ns "R�paration de chariot"; np "R�paration de chariot";
+ns "Réparation de chariot"; np "Réparation de chariot";
 }
 translate molecularbalance to french feminine
 {
-ns "Equilibre mol�culaire"; np "Equilibres mol�culaires";
+ns "Equilibre moléculaire"; np "Equilibres moléculaires";
 }
 
 translate "Quality 6000+ Florence Flask"
-to french "Ballon de Florence qualit� 6000+";
+to french "Ballon de Florence qualité 6000+";
 translate "Quality 7000+ Florence Flask"
-to french "Ballon de Florence qualit� 7000+";
+to french "Ballon de Florence qualité 7000+";
 
 translate "Marble Mortar"
 to french "Mortier en marbre";
@@ -123,16 +120,16 @@ to french "Coupe Crater dans la Citrine";
 
 
 translate "Papyrus for materials research"
-to french "Papyrus pour la recherche des mat�riaux";
+to french "Papyrus pour la recherche des matériaux";
  
 translate "Donate"
 to french "Donner";
 
 translate "You already know O1"
-to french "Vous connaissez d�j� O1(ns)";
+to french "Vous connaissez déjà O1(ns)";
 
 translate "O1 (Completed)"
-to french "O1(ns) (Achev�)";
+to french "O1(ns) (Achevé)";
 
 translate "O1 (Current Level: N1)"
 to french "O1(ns) (Niveau actuel : N1)";
@@ -144,25 +141,25 @@ translate "O1 (Level: N1)"
 to french "O1(ns) (Niveau : N1)";
 
 translate "Allows looms to be converted to automatic operation."
-to french "Permet d'op�rer un m�tier � tisser automatiquement.";
+to french "Permet d'opérer un métier à tisser automatiquement.";
 
 translate "Allows cultivation of barley."
 to french "Permet la culture de l'orge.";
 
 translate "Allows cultivation of wheat."
-to french "Permet la culture du bl�.";
+to french "Permet la culture du blé.";
 
 translate "Carpentry Blade, 5000+ Quality"
-to french "Lames de menuiserie, qualit� 5000+";
+to french "Lames de menuiserie, qualité 5000+";
 
 translate "Eyelet, any kind"
 to french "Oeil de pie, n'importe quelle sorte";
 
 translate "Allows comparison of genome lengths among plant strains."
-to french "Permet la comparaison des longueurs de g�nomes entre les souches de plantes.";
+to french "Permet la comparaison des longueurs de génomes entre les souches de plantes.";
 
 translate "The scientists regrettably inform you that they are still trying to determine exactly what they need to complete this research."
-to french "Les scientifiques ont le regret de vous annoncer qu'ils sont toujours en train de d�terminer ce qu'il leur faut pour terminer cette recherche.";
+to french "Les scientifiques ont le regret de vous annoncer qu'ils sont toujours en train de déterminer ce qu'il leur faut pour terminer cette recherche.";
 
 // Deep Well Construction
 
@@ -180,10 +177,10 @@ translate Casting to french feminine
 ns "Moulage"; np "Moulage";
 }
 translate "Allows shaping of wax moulds, and pouring of liquid metal."
-to french "Permet de fabriquer des moules de cire et de verser du m�tal en fusion.";
+to french "Permet de fabriquer des moules de cire et de verser du métal en fusion.";
 
 translate "You study the art of carving beeswax, and the technique of using those pieces to form hollow casts in a casting box."
-to french "Vous �tudiez l'art de la gravure sur cire, et l'utilisation de ces gravures pour former des moules dans une bo�te � moulage.";
+to french "Vous étudiez l'art de la gravure sur cire, et l'utilisation de ces gravures pour former des moules dans une boîte à moulage.";
 
 //Flax Processing
 
@@ -193,28 +190,28 @@ ns "Traitement du lin"; np "Traitement du lin";
 }
 
 translate "The skill of extracting flax fibers, and weaving them into rope and cloth"
-to french "Cette comp�tence vous permet d'extraire les fibres de lin, et de les tisser en cordes ou en v�tements.";
+to french "Cette compétence vous permet d'extraire les fibres de lin, et de les tisser en cordes ou en vétements.";
 
 //Battering Ram Construction
 
 translate BatteringRamConstruction to french feminine
 {
-ns "Construction de b�liers"; np "Construction de b�liers";
+ns "Construction de béliers"; np "Construction de béliers";
 }
 translate "Allows refining of metal from ore, and shaping metal tools."
-to french "Permet de raffiner le minerai en m�tal, et de transformer ce m�tal en outils.";
+to french "Permet de raffiner le minerai en métal, et de transformer ce métal en outils.";
 
 translate "Allows building more advanced, much slower, and sometimes environmentally damaaging furnaces."
-to french "Permet de construire des fourneaux plus avanc�s, plus lents, et parfois plus dangereux pour l'envirronement.";
+to french "Permet de construire des fourneaux plus avancés, plus lents, et parfois plus dangereux pour l'envirronement.";
 
 translate "Allows construction of Gyration Cells: Small, fast, efficient, and clean - the one downside is that due to the difficulty tuning the filter..."
-to french "Permet la construction de Centrifugeuses: petites, rapides, efficaces, et propres - la seule difficult� consiste � r�gler le filtre...";
+to french "Permet la construction de Centrifugeuses: petites, rapides, efficaces, et propres - la seule difficulté consiste à rêgler le filtre...";
 
 translate "Allows construction of charcoal hearths."
-to french "Permet la construction de fours � charbon de bois.";
+to french "Permet la construction de fours à charbon de bois.";
 
 translate "You study the techniques needed to build battering rams. You also learn that they are only effective against specific, tough buildings, such as the Status of Octec."
-to french "Vous �tudiez les techniques de construction des b�liers. Vous apprenez aussi qu'ils ne sont efficaces que contre certaines constructions particuli�rement r�sistantes, par exemple les statues d'Octec.";
+to french "Vous étudiez les techniques de construction des béliers. Vous apprenez aussi qu'ils ne sont efficaces que contre certaines constructions particulièrement résistantes, par exemple les statues d'Octec.";
 
 //Basic Charcoal Produktion
 
@@ -223,19 +220,19 @@ translate BasicCharcoalProduction to french feminine
 ns "Prod. basique de charbon de bois"; np "Prod. basique de charbon de bois";
 }
 translate "Allows construction of various charcoal ovens."
-to french "Permet la constructions de plusieurs sortes de fours � charbon de bois";
+to french "Permet la constructions de plusieurs sortes de fours à charbon de bois";
 
 //Advanced Charcoal Production
 
 translate AdvancedCharcoalProduction to french feminine
 {
-ns "Prod. avanc�e de charbon de bois"; np "Prod. avanc�e de charbon de bois";
+ns "Prod. avancée de charbon de bois"; np "Prod. avancée de charbon de bois";
 }
 translate "Allows construction of sophisticated charcoal ovens."
-to french "Permet la construction de fours � charbon de bois sophistiqu�s.";
+to french "Permet la construction de fours à charbon de bois sophistiqués.";
 
 translate "To learn advanced charcoal production, you must have first successfully made a batch of charcoal in a charcoal hearth."
-to french "Pour apprendre la production avanc�e de charbon de bois, vous devez d'abord fabriquer du charbon de bois � partir d'un four pr�vu � cet effet.";
+to french "Pour apprendre la production avancée de charbon de bois, vous devez d'abord fabriquer du charbon de bois à partir d'un four prévu à cet effet.";
 
 //MortarConstruction
 
@@ -244,16 +241,16 @@ translate MortarConstruction to french feminine
 ns "Construction de mortiers"; np "Construction de mortiers";
 }
 translate "Allows pyrotechnic mortars to be built."
-to french "Permet de construire des mortiers � pyrotechnie.";
+to french "Permet de construire des mortiers à pyrotechnie.";
 
 translate "Allows controlled bonfires to be constructed."
-to french "Permet de mettre en place des feux dont vous contr�lez la combustion.";
+to french "Permet de mettre en place des feux dont vous contrôlez la combustion.";
 
 translate "Allows firepits to be constructed, to consume materials in a controlled way."
-to french "Permet de construire des feux de bois, et de consumer des mat�riaux de fa�on contr�l�e";
+to french "Permet de construire des feux de bois, et de consumer des matériaux de façon contrôlée";
 
 translate "Allows the creation of Improved Brick Racks, which are larger and sturdier than Flimsy Brick Racks."
-to french "Permet la cr�ation de moules � briques am�lior�s, qui sont plus gros et plus r�sistants que les moules � briques classiques.";
+to french "Permet la création de moules à briques améliorés, qui sont plus gros et plus résistants que les moules à briques classiques.";
 
 
 //Mine Construction
@@ -279,7 +276,7 @@ ns "Minage"; np "Minage";
 }
 
 translate "Allows digging into the earth to discover hidden resources."
-to french "Permet de creuser le sol pour d�couvrir des ressources cach�es.";
+to french "Permet de creuser le sol pour découvrir des ressources cachées.";
 
 translate "Increases production of mines"
 to french "Augmente le randement des mines";
@@ -288,17 +285,17 @@ to french "Augmente le randement des mines";
 
 translate Finecasting to french masculine
 {
-ns "Moulage de pr�cision"; np "Moulage de pr�cision";
+ns "Moulage de précision"; np "Moulage de précision";
 }
 translate "Allows one to make small objects in casting boxes, like bearings and small gears."
 to french "Permet de fabriquer des petits objets dans les moules, comme les roulements et les petits pignons.";
 
 
 translate "Allows one to finely cut stones."
-to french "Permet de tailler des pierres avec pr�cision.";
+to french "Permet de tailler des pierres avec précision.";
 
 translate "Allows one to upgrade Mason Benches to cut marble."
-to french "Permet d'am�liorer les planches de ma�ons pour couper du marbre.";
+to french "Permet d'améliorer les planches de maçons pour couper du marbre.";
 
 //CARPENTRY
 
@@ -315,26 +312,26 @@ ns "Automatision de menuiserie"; np "Automatision de menuiserie";
 }
 
 translate "Allows construction of powerful yet precise sawmills, which automate board production."
-to french "Permet la construction de scieries efficaces mais pr�cises, pour automatiser la production de planches.";
+to french "Permet la construction de scieries efficaces mais précises, pour automatiser la production de planches.";
 
 translate "Allows for the construction of automated looms."
-to french "Permet la construction de m�tiers � tisser automatis�s.";
+to french "Permet la construction de métiers à tisser automatisés.";
 
 translate "Symmetry Cut Amethyst"
-to french "Am�thystes taill�es : Sym�trie";
+to french "Améthystes taillées : Symétrie";
 translate "Symmetry Cut Sunstone"
-to french "H�liolites taill�es : Sym�trie";
+to french "Héliolites taillées : Symétrie";
 translate "Cut Stone"
-to french "Pierres taill�es";
+to french "Pierres taillées";
 translate "White Raeli Tiles"
 to french "Tuiles Raeli blanches";
 translate "Black Raeli Tiles"
 to french "Tuiles Raeli noires";
 translate "Island Blue Marble"
-to french "Marbres des �les bleues";
+to french "Marbres des Îles bleues";
 
 translate "You must first learn the basics of Advanced Automation."
-to french "Vous devez d'abord apprendre les bases de l'Automatisation avanc�es.";
+to french "Vous devez d'abord apprendre les bases de l'Automatisation avancées.";
 //POTTERY
 
 translate Pottery to french feminine
@@ -342,7 +339,7 @@ translate Pottery to french feminine
 ns "Poterie"; np "Poterie";
 }
 translate "To learn pottery, you'll need 10 Clay as tuition. The school has given you an empty jug to help you gather clay."
-to french "Pour apprendre la poterie, vous devez fournir 10 argiles pour financer vos �tudes. L'�cole vous a donn� une cruche vide pour vous aider � r�colter de l'argile.";
+to french "Pour apprendre la poterie, vous devez fournir 10 argiles pour financer vos études. L'école vous a donné une cruche vide pour vous aider à récolter de l'argile.";
 
 //Structural Pottery
 
@@ -351,7 +348,7 @@ translate StructuralPottery to french feminine
 ns "Poterie structurelle"; np "Poterie structurelle";
 }
 translate "Allows construction of machenery for huge earthenware projects"
-to french "Vous permet la construction d'installations destin�es � la fabrication de grandes structures en argile.";
+to french "Vous permet la construction d'installations destinées à la fabrication de grandes structures en argile.";
 
 //KILN CONSTRUCTION
 
@@ -364,7 +361,7 @@ ns "Construction de fours"; np "Construction de fours";
 
 translate RockSawConstruction to french feminine
 {
-ns "Fab. de scie � pierres"; np "Fab. de scie � pierres";
+ns "Fab. de scie à pierres"; np "Fab. de scie à pierres";
 }
 
 //Automation
@@ -374,7 +371,7 @@ translate Automation to french feminine
 ns "Automatisation"; np "Automatisation";
 }
 translate "Basic Science - allows other discoveries."
-to french "Science �l�mentaire - permet d'autres d�couvertes.";
+to french "Science élémentaire - permet d'autres découvertes.";
 
 //Mine Automation
 
@@ -382,23 +379,23 @@ translate "Allows mines to produce ore automatically"
 to french "Permet aux mines d'extraire du minerai automatiquement";
 
 translate "Allows the installation of Automatic Winches into mines, letting them run themselves."
-to french "Permet l'installation de treuils automatis�s dans les mines.";
+to french "Permet l'installation de treuils automatisés dans les mines.";
 
 translate "You study the science of installing Automatic Winches into mines."
-to french "Vous �tudiez la science des trueils automatis�s.";
+to french "Vous étudiez la science des trueils automatisés.";
 
 //Mechanics
 
 translate Mechanics to french feminine
 {
-ns "M�canique"; np "M�canique";
+ns "Mécanique"; np "Mécanique";
 }
 
 translate "Allows for the construction of automated brick making machines."
 to french "Permet la construction de machines pour fabriquer des briques automatiquement";
 
 translate "Allows construction of various kinds of automatic brick machines."
-to french "Permet la construction de diverses machines destin�es � la production automatique de briques.";
+to french "Permet la construction de diverses machines destinées à la production automatique de briques.";
 
 //Flax Automation
 
@@ -408,7 +405,7 @@ ns "Automatisation du lin"; np "Automatisation du lin";
 }
 
 translate "Allows construction - but not operation - of the Flax Gin."
-to french "Permet la construction - mais non l'utilisation - de l'�greneuse � lin";
+to french "Permet la construction - mais non l'utilisation - de l'égreneuse à lin";
 
 //LARGE PROJECT MANAGEMENT
 
@@ -440,7 +437,7 @@ translate "Allows farming and the cultivation of certain crops."
 to french "Permet l'agriculture et la culture de certaines plantes.";
 
 translate "Allows the capture and breeding of wild animals."
-to french "Permet la capture et l'�levage d'animaux sauvages.";
+to french "Permet la capture et l'élevage d'animaux sauvages.";
 
 //Gardening
 
@@ -458,22 +455,22 @@ translate CrossBreeding to french feminine
 ns "Greffes"; np "Greffes";
 }
 translate "Allows interbreeding strains of some plants."
-to french "Permet la cr�ation de nouvelles vari�t�s de plantes.";
+to french "Permet la création de nouvelles variétés de plantes.";
 
 translate "Distillation Coils, Quality 3000+"
-to french "Serpentin, qualit� 3000+";
+to french "Serpentin, qualité 3000+";
 translate "Distillation Coils, Quality 4000+"
-to french "Serpentin, qualit� 4000+";
+to french "Serpentin, qualité 4000+";
 translate "Distillation Coils, Quality 5000+"
-to french "Serpentin, qualit� 5000+";
+to french "Serpentin, qualité 5000+";
 translate "Lily-of-the-Sea Bulbs, Energy Strain"
-to french "N�nuphar, de souche Energie";
+to french "Nénuphar, de souche Energie";
 translate "Lily-of-the-Sea Bulbs, Fracture Strain"
-to french "N�nuphar, de souche Fracture";
+to french "Nénuphar, de souche Fracture";
 translate "Lily-of-the-Sea Bulbs, Vampire Strain"
-to french "N�nuphar, de souche Vampire";
+to french "Nénuphar, de souche Vampire";
 translate "Lily-of-the-Sea Bulbs, Silken Strain"
-to french "N�nuphar, de souche Soyeuse";
+to french "Nénuphar, de souche Soyeuse";
 
 translate "Any Flax Seeds"
 to french "N'importe quel type de graine de lin";
@@ -482,10 +479,10 @@ to french "N'importe quel type de graine de lin";
 
 translate StressedBreeding to french feminine
 {
-ns "Greffes avanc�es"; np "Greffes avanc�es";
+ns "Greffes avancées"; np "Greffes avancées";
 }
 translate "Allows interbreeding strains of some plants."
-to french "Permet la cr�ation de nouvelles vari�t�s de plantes.";
+to french "Permet la création de nouvelles variétés de plantes.";
 
 //ANIMAL HUSBANDRY
 
@@ -498,63 +495,63 @@ translate "animal husbandry"
 to french "Elevage";
 
 translate "Allows capture and breeding of wild animals."
-to french "Permet la capture et l'�levage d'animaux sauvages.";
+to french "Permet la capture et l'élevage d'animaux sauvages.";
 
 //AVIAN SELECTION
 
 translate AvianSelection to french feminine
 {
-ns "S�lection de volailles"; np "S�lection de volailles";
+ns "Sélection de volailles"; np "Sélection de volailles";
 }
 translate "Allows refined breeding of domesticated birds."
-to french "Permet la s�lection et la reproduction d'animaux domestiques.";
+to french "Permet la sélection et la reproduction d'animaux domestiques.";
 
 // ADVANCED ANIMAL HUSBANDRY
 
 translate "Allows the cure of certain types of livestock disease."
-to french "Permet la gu�rison de certaines maladies animales.";
+to french "Permet la guérison de certaines maladies animales.";
 
 translate "Techniques to encourage procreation of certain types of livestock."
-to french "Techniques pour encourrager la procr�ation de certains types de b�tail.";
+to french "Techniques pour encourrager la procréation de certains types de bétail.";
 
 //ADVANCED AUTOMATION
 
 translate AdvancedAutomation to french feminine
 {
-ns "Automatisation avanc�e"; np "Automatisation avanc�e";
+ns "Automatisation avancée"; np "Automatisation avancée";
 }
 
 translate advancedcasting to french feminine
 {
-ns "Fonderie avanc�e"; np "Fonderies avanc�es";
+ns "Fonderie avancée"; np "Fonderies avancées";
 }
 translate "Allows for the casting of ancient mechanical parts"
-to french "Permet de couler des pi�ces de m�canique ancienne";
+to french "Permet de couler des pièces de mécanique ancienne";
 
 translate "Techniques to automate portions of charcoal creation, allowing for"
-to french "Techniques pour automatiser certaines parties de la cr�ation de charbon de bois, permettant";
+to french "Techniques pour automatiser certaines parties de la création de charbon de bois, permettant";
 
 translate "greater yield, but requires high focus."
-to french " un plus grand rendement, mais n�cessitant un focus �lev�";
+to french " un plus grand rendement, mais nécessitant un focus élevé";
 
 translate steammechanics to french feminine
 {
-ns "M�canique � vapeur"; np "M�caniques � vapeur";
+ns "Mécanique à vapeur"; np "Mécaniques à vapeur";
 }
 translate "Allows one to construct steam powered building"
-to french "Permet la construction d'objets � vapeur";
+to french "Permet la construction d'objets à vapeur";
 
 translate "Allows other Automation discoveries."
 to french "Permet de rechercher de nouvelles techniques d'automatisation.";
 
 translate "Quality 5000+ Springs"
-to french "Ressorts de qualit� 5000+";
+to french "Ressorts de qualité 5000+";
 
 translate "Quality 7000+ Springs"
-to french "Ressorts de qualit� 7000+";
+to french "Ressorts de qualité 7000+";
 
 translate "Quality 8500+ Springs"
-to french "Ressorts de qualit� 8500+";
+to french "Ressorts de qualité 8500+";
 
 // BEEKEEPING
 
@@ -563,10 +560,10 @@ translate Beekeeping to french masculine
 ns "Elevage d'abeilles"; np "Elevage d'abeilles";
 }
 translate "Allows capture and breeding of wild bees." 
-to french "Permet la capture et l'�levage d'abeilles sauvages.";
+to french "Permet la capture et l'élevage d'abeilles sauvages.";
 
 translate "Recipes for essense that adjusts hive output."
-to french "Des recettes d'essences � utiliser pour am�liorer le rendement des ruchers.";
+to french "Des recettes d'essences à utiliser pour améliorer le rendement des ruchers.";
 
 //Navigation
 
@@ -579,10 +576,10 @@ ns "Navigation"; bp "Navigation";
 
 translate PrecisionWoodcutting to french masculine
 {
-ns "B�cheronnage de pr�cision"; np "B�cheronnage de pr�cision";
+ns "Bûcheronnage de précision"; np "Bûcheronnage de précision";
 }
 translate "Precision woodcutting requires a finely made steel axe. Fine Steel Axes can be crafted by Students of Architecture, once per week."
-to french "Le b�cheronnage de pr�cision requiert une bonne hache d'acier. Ces haches sont fabriqu�es par les �tudiants en Architecture, une fois par semaine.";
+to french "Le bûcheronnage de précision requiert une bonne hache d'acier. Ces haches sont fabriquées par les étudiants en Architecture, une fois par semaine.";
 
 //SALVAGE
 
@@ -605,18 +602,18 @@ translate Marriage to french masculine
 ns "Mariage"; np "Mariage";
 }
 translate "Read about the Marriage Ceremony"
-to french "Quelques informations sur la c�r�monie du mariage";
+to french "Quelques informations sur la cérémonie du mariage";
 
 translate "READ ALL OF THIS MESSAGE. IT IS IMPORTANT."
 to french "LISEZ TOUS CE MESSAGE - TRES IMPORTANT";
 
 translate "The Test of Marriage is different from other Tests of Worship: You don't have to have passed the initiation into Worship to get married."
-to french "L'�preuve du Mariage est diff�rente des autres �preuves de V�n�ration. Vous n'avez pas � passer l'initiation � la V�n�ration pour vous marier.";
+to french "L'épreuve du Mariage est différente des autres épreuves de Vénération. Vous n'avez pas à passer l'initiation à la Vénération pour vous marier.";
 
 translate "Know that marriage really is permanent - Egypt has no concept of divorce. "
-to french "Sachez que le mariage est permanent - L'�gypte ne conna�t pas le divorce.";
+to french "Sachez que le mariage est permanent - L'égypte ne connaît pas le divorce.";
 translate "Couples are aware of each other's accomplishments, may use each other's possesions, AND MAY EVEN LOG IN AS ONE ANOTHER. There is no concept of divorce."
-to french "Les couples sont au courant des actions de leur moiti�, chacun peut utiliser les possessions de l'autre, et il est m�me possible de SE CONNECTER EN UTILISANT LE COMPTE DE L'AUTRE. Le divorce n'existe pas.";
+to french "Les couples sont au courant des actions de leur moitié, chacun peut utiliser les possessions de l'autre, et il est même possible de SE CONNECTER EN UTILISANT LE COMPTE DE L'AUTRE. Le divorce n'existe pas.";
 
 //PAPYRUS PAPER FABRICATION
 
@@ -626,50 +623,50 @@ ns "Fabrication de papier de papyrus"; np "Fabrication de papier de papyrus";
 }
 
 translate "Techniques for pressing dried Papyrus into high quality paper."
-to french "Techniques pour presser du papyrus s�ch� en papier de haute qualit�.";
+to french "Techniques pour presser du papyrus séché en papier de haute qualité.";
 
 
 //METALLURGY
 
 translate Metallurgy to french feminine
 {
-ns "M�tallurgie"; np "M�tallurgie";
+ns "Métallurgie"; np "Métallurgie";
 }
 
 translate "Allows refining of metal from ore, and shaping metal tools."
-to french "Permet de raffiner du minerai en m�tal, puis de forger ce m�tal en objets.";
+to french "Permet de raffiner du minerai en métal, puis de forger ce métal en objets.";
 
 translate "Allows for the construction of furnaces to produce alloys"
 to french "Permet de construire des fourneaux capables de produire des alliages";
 
 translate "Allows the practitioner to make basic artesian crafting steels."
-to french "Permet au praticien de fabriquer des aciers art�siens artisaux, de base.";
+to french "Permet au praticien de fabriquer des aciers artésiens artisaux, de base.";
 translate "Allows the practitioner to make specialized artesian crafting steels."
-to french "Permet au praticien de fabriquer des aciers art�siens artisaux, sp�cialis�s.";
+to french "Permet au praticien de fabriquer des aciers artésiens artisaux, spécialisés.";
 translate "Allows the practitioner to make exotic artesian crafting steels."
-to french "Permet au praticien de fabriquer des aciers art�siens artisaux, �xotiques.";
+to french "Permet au praticien de fabriquer des aciers artésiens artisaux, éxotiques.";
 translate "Allows the practitioner to make legendary artesian crafting steels."
-to french "Permet au praticien de fabriquer des aciers art�siens artisaux, l�gendaires.";
+to french "Permet au praticien de fabriquer des aciers artésiens artisaux, légendaires.";
 
 translate "You study the techniques needed to refine and work metals, and the technology of constructing several designs of furnaces:"
-to french "Vous �tudiez les techniques de raffinage et de travail des m�taux, ainsi que la conception de plusieurs types de fours :";
+to french "Vous étudiez les techniques de raffinage et de travail des métaux, ainsi que la conception de plusieurs types de fours :";
 
 translate "You study techniques which allow for the conversion of raw ore into pure metals."
-to french "Vous �tudiez les techniques de raffinage du minerais en m�taux.";
+to french "Vous étudiez les techniques de raffinage du minerais en métaux.";
 
 translate "You study techniques which allow building more advanced, slower, and sometimes environmentally damaging furnaces."
-to french "Vous �tudiez les techniques permettant de construire des fourneaux plus avanc�s, plus lents, et parfois moins respectueux de l'envirronement.";
+to french "Vous étudiez les techniques permettant de construire des fourneaux plus avancés, plus lents, et parfois moins respectueux de l'envirronement.";
 
 translate "You study techniques that, with care, allow you to create metal alloys"
-to french "Vous �tudiez les techniques qui, si utilis�es avec pr�caution, vous permettront de cr�er des alliages de m�taux.";
+to french "Vous étudiez les techniques qui, si utilisées avec précaution, vous permettront de créer des alliages de métaux.";
 
 translate "You study plans for a clever model of furnace known as a Gyration Cell."
-to french "Vous �tudiez les plans d'un mod�le de fourneaux ing�nieux connus sous le nom de Centrifugeuses.";
+to french "Vous étudiez les plans d'un modèle de fourneaux ingénieux connus sous le nom de Centrifugeuses.";
 
 translate "1. Smelting Pots"
-to french "1. R�cipient de fusion";
+to french "1. Récipient de fusion";
 translate "2. Craft Furnaces"
-to french "2. Fours de m�tier";
+to french "2. Fours de métier";
 translate "3. Blast Furnaces"
 to french "3. Haut-fourneaux";
 
@@ -677,68 +674,68 @@ translate "There are now several new options on your Projects menu."
 to french "Vous avez acquis plusieurs nouvelles options dans votre menu Projets.";
 
 translate "Allows construction of machinery for huge earthenware projects"
-to french "Permet la construction de machines pour les grands projets de fa�ence";
+to french "Permet la construction de machines pour les grands projets de faïence";
 
 //BLACK SMITHING
 
 translate "Allows one to forge various blades"
-to french "Permet de forger diff�rents types de lames";
+to french "Permet de forger différents types de lames";
 translate "Allows one to forge Springs and Sharp Blades"
-to french "Permet de forger des Ressorts et des lames aiguis�es";
+to french "Permet de forger des Ressorts et des lames aiguisées";
 
 
 translate "Quality 9500+ Hatchet"
-to french "Hachette de Qualit� 9500+";
+to french "Hachette de Qualité 9500+";
 translate "Quality 9000+ Hatchet"
-to french "Hachette de Qualit� 9000+";
+to french "Hachette de Qualité 9000+";
 translate "Quality 8500+ Hatchet"
-to french "Hachette de Qualit� 8500+";
+to french "Hachette de Qualité 8500+";
 translate "Quality 9500+ Shovel"
-to french "Pelle de Qualit� 9500+";
+to french "Pelle de Qualité 9500+";
 translate "Quality 9000+ Shovel"
-to french "Pelle de Qualit� 9000+";
+to french "Pelle de Qualité 9000+";
 translate "Quality 8500+ Shovel"
-to french "Pelle de Qualit� 8500+";
+to french "Pelle de Qualité 8500+";
 translate "Quality 9000+ Resin Wedge"
-to french "Collecteur de r�sine de Qualit� 9000+";
+to french "Collecteur de résine de Qualité 9000+";
 translate "Quality 8500+ Resin Wedge"
-to french "Collecteur de r�sine de Qualit� 8500+";
+to french "Collecteur de résine de Qualité 8500+";
 
 
 //ADVANCED CHEMISTRY
 
 translate Chemistry to french feminine
 {
-ns "Chimie avanc�e"; np "Chimie avanc�e";
+ns "Chimie avancée"; np "Chimie avancée";
 }
 translate "Allows the construction of advanced chemistry devices."
-to french "Permet la construction d'outils de chimie plus �volu�s.";
+to french "Permet la construction d'outils de chimie plus évolués.";
 
 translate "Quality 1000+ Distillation Coils"
-to french "Serpentins de qualit� 1000+";
+to french "Serpentins de qualité 1000+";
 translate "Quality 1500+ Distillation Coils"
-to french "Serpentins de qualit� 1500+";
+to french "Serpentins de qualité 1500+";
 translate "Quality 2000+ Distillation Coils"
-to french "Serpentins de qualit� 2000+";
+to french "Serpentins de qualité 2000+";
 translate "Quality 2000+ Test Tubes"
-to french "Tubes � essai de qualit� 2000+";
+to french "Tubes à essai de qualité 2000+";
 translate "Quality 3000+ Test Tubes"
-to french "Tubes � essai de qualit� 3000+";
+to french "Tubes à essai de qualité 3000+";
 translate "Quality 2000+ Florence Flask"
-to french "Ballons de Florence de qualit� 2000+";
+to french "Ballons de Florence de qualité 2000+";
 translate "Quality 3000+ Florence Flask"
-to french "Ballons de Florence de qualit� Erlenmayerkolben";
+to french "Ballons de Florence de qualité Erlenmayerkolben";
 translate "Quality 2000+ Beaker"
-to french "Gobelets de qualit� 2000+";
+to french "Gobelets de qualité 2000+";
 translate "Quality 3000+ Beaker"
-to french "Gobelets de qualit� 3000+";
+to french "Gobelets de qualité 3000+";
 translate "Quality 2000+ Thistle Tube"
-to french "Tubes � chardon de qualit� 2000+";
+to french "Tubes à chardon de qualité 2000+";
 translate "Quality 3000+ Thistle Tube"
-to french "Tubes � chardon de qualit� 3000+";
+to french "Tubes à chardon de qualité 3000+";
 
 translate "The scientists are happy to report that they recovered their notes, and appoligize for the delay. With their newly researched technology you will be able to build a Crematory."
-to french "Les scientifiques sont heureux d'annoncer qu'ils ont retrouv� leur notes, et s'excuses pour le d�lais. Avec la technologie qu'ils viennent de mettre au point, vous pourrez construire des cr�matorium.";
+to french "Les scientifiques sont heureux d'annoncer qu'ils ont retrouvé leur notes, et s'excuses pour le délais. Avec la technologie qu'ils viennent de mettre au point, vous pourrez construire des crématorium.";
 
 
 //DOWSING
@@ -748,22 +745,22 @@ translate Dowsing to french masculine
 ns "Rhabdomancie"; np "Rhabdomancie";
 }
 translate "Allows a practitioner of the art to sense minerals that lay beneath the ground."
-to french "Permet au connaisseur de sentir la pr�sence de minerai dans le sol.";
+to french "Permet au connaisseur de sentir la présence de minerai dans le sol.";
 
 translate "You need a skill level of at least 1 in Art and Music to learn Dowsing."
-to french "Vous devez poss�der au moins un niveau de 1 dans Art et Musique pour apprendre la rhabdomancie.";
+to french "Vous devez posséder au moins un niveau de 1 dans Art et Musique pour apprendre la rhabdomancie.";
 
 translate "You study the art of Dowsing, the ability to detect useful materials underground. As your artistic ability grows, so does your dowsing skill. At higher levels, you will be able to detect silver, gold, and eventually strange, exotic materials."
-to french "Vous �tudiez l'art de la rhabdomancie, celui de d�tecter des m�taux dans le sol. A mesure que vos connaissances artistiques progressent, votre comp�tence progresse elle aussi. Aux plus hauts niveaux, vous �tes en mesure de d�tecter l'argent, l'or, et d'autres mati�res �tranges et exotiques.";
+to french "Vous étudiez l'art de la rhabdomancie, celui de détecter des métaux dans le sol. A mesure que vos connaissances artistiques progressent, votre compétence progresse elle aussi. Aux plus hauts niveaux, vous êtes en mesure de détecter l'argent, l'or, et d'autres matières étranges et exotiques.";
 
 //BASIC CHEMISTRY
 
 translate Chemistry to french feminine
 {
-ns "Chimie �l�mentaire"; np "Chimie �l�mentaire";
+ns "Chimie élémentaire"; np "Chimie élémentaire";
 }
 translate "Allows creation of basic laboratories."
-to french "Permet la cr�ation des laboratoires de base.";
+to french "Permet la création des laboratoires de base.";
 
 //GLASSBLOWING
 
@@ -772,7 +769,7 @@ translate Glassblowing to french feminine
 ns "Soufflerie"; np "Soufflerie";
 }
 translate "Allows creation & operation of Glazier's Benches."
-to french "Permet la cr�ation et l'utilisation de tables de vitrier.";
+to french "Permet la création et l'utilisation de tables de vitrier.";
 
 //RITUAL ITEM CONSTRUCTION
 
@@ -786,25 +783,25 @@ translate StoneCutting to french feminine
 ns "Taille de pierres"; np "Taille de pierres";
 }
 translate "Allows one to cut structural stones."
-to french "Vous permet de tailler des pierres avec pr�cision.";
+to french "Vous permet de tailler des pierres avec précision.";
 
 translate "Harvest Elixer Recipe"
-to french "Formule d'�lixir de moisson";
+to french "Formule d'élixir de moisson";
 
 translate "You learn an ancient recipe for Harvest Elixer, a highly nourishing plant fertilizer. Harvest Elixer, while more costly to make than normal fertilizer, works for a longer period of time and therefore requires less frequent tending. A new option has appeared on kitchens."
-to french "Vous apprenez une vieille formule d'�lixir de moissons, un engrais tr�s nourrissant. Il est plus co�teux � fabriquer qu'un �lixir normal, mais il fait effet plus longtemps et n�cessite donc moins d'applications. Vous avez une nouvelle option dans votre menu de Cuisine";
+to french "Vous apprenez une vieille formule d'élixir de moissons, un engrais très nourrissant. Il est plus coûteux à fabriquer qu'un élixir normal, mais il fait effet plus longtemps et nécessite donc moins d'applications. Vous avez une nouvelle option dans votre menu de Cuisine";
 
 translate "Two kinds of reproduceable mutations of some plants."
-to french "Deux sortes de mutations v�g�tales reproductibles.";
+to french "Deux sortes de mutations végétales reproductibles.";
 
 translate "Allows the repair of Chariot Stops back to their original condition."
-to french "Permet de r�parer les arr�ts de chariot et de les remettre dans leur �tat original.";
+to french "Permet de réparer les arrêts de chariot et de les remettre dans leur état original.";
 
 translate "You have learned O1:"
 to french "Vous avez appris O1(ns):";
 
 translate "You have upgraded your skill in O1:"
-to french "Vous avez am�liorer vos comp�tences en O1(ns):";
+to french "Vous avez améliorer vos compétences en O1(ns):";
 
 translate "Old Level: N1 New Level: N2"
 to french "Ancien niveau: N1 Nouveau niveau: N2";
@@ -830,16 +827,16 @@ translate GuildConstruction to french feminine
 ns "Construction de guilde"; np "Construction de guilde";
 }
 translate "Allows the creation of Guild Halls, to coordinate the activities of groups of people."
-to french "Permet de fonder des guildes en construisant des B�timents de guilde, afin de coordonner des activit� de groupe.";
+to french "Permet de fonder des guildes en construisant des Bâtiments de guilde, afin de coordonner des activité de groupe.";
 
 translate "no skills currently available"
-to french "Aucune comp�tence actuellement disponible";
+to french "Aucune compétence actuellement disponible";
 
 translate "You learn the Rhythmic Strength skill. To make use of the skill, you'll need a Papyrus Basket and a Scythe."
-to french "Vous apprennez la comp�tence Force Rythmique. Pour l'utiliser, vous aurez besoin d'un panier et d'une faux.";
+to french "Vous apprennez la compétence Force Rythmique. Pour l'utiliser, vous aurez besoin d'un panier et d'une faux.";
 
 translate "Allows you to retrieve some of the materials when you tear down obsolete buildings."
-to french "Permet de r�cup�rer une partie du mat�riel lorsque vous d�truisez un b�timent obsol�te";
+to french "Permet de récupérer une partie du matériel lorsque vous détruisez un bâtiment obsolète";
 
 translate "K1 - Level: N1/N2"
 to french "K1 - Level: N1/N2";
