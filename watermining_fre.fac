@@ -1,38 +1,38 @@
 module watermining_fre;
 
-translate WaterMining to french masculine
+translate WaterMining to french feminine
 {
-  ns "Forage à l'eau"; np "Forage à l'eau";
+  ns "Exploitation minière aquatique"; np "Exploitation minière aquatique";
 }
 
 translate WaterMine to french feminine
 {
-  ns "Mine à eau"; np "Mines à eau";
+  ns "Mine aquatique"; np "Mine aquatique";
 }
 
 translate "A novel method of extracting gems from the mud near shorelines."
-to french "Une méthode innovante d'extraction de pierres précieuses dans la boue pres des côtes.";
+to french "Une méthode novatrice d’extraction de gemmes dans la boue près des rivages.";
 
 translate "WaterMining (Completed)"
-to french "Forage à l'eau (Achevé)";
+to french "Exploitation minière aquatique (Achevé)";
 
 translate "You study a method for shaping glass tubes into a giant spring-loaded glass helix to churn the mud, and look for gems."
 to french "Vous étudiez une méthode pour monter une hélice d'arrosage à partir de tubes en verre pour ramollir la beau et découvrir des pierres précieuses.";
 
 translate "Water Mine"
-to french "Mine à eau";
+to french "Mine aquatique";
 
 translate "To build a Water Mine, you need: "
-to french "Pour construire une mine à eau, il vous faut :";
+to french "Pour construire une mine à eau, il vous faut:";
 
 translate "Water Mines must be built directly adjacent to water."
-to french "Les mines à eau doivent être construites juste à côté de l'eau.";
+to french "Les mines d’eau doivent être construites directement à côté de l’eau.";
 
 translate "No good place to build."
-to french "L'endroit ne convient pas.";
+to french "Emplacement non adapté à la construction.";
 
 translate "You're close enough to another water mine that they may interfere with each other. Build here anyway?"
-to french "Vous êtes trop près d'une autre mine, les deux peuvent se nuire mutuellement. Voulez-vous tout de même continuer ?";
+to french "Vous êtes assez proche d’une autre mine aquatique ; elles pourraient interférer entre elles. Construire ici quand même ?";
 
 translate "Wind the collar spring"
 to french "Remonter le ressort";
@@ -60,3 +60,26 @@ to french "Angle de N1";
 
 translate "Pitch is now set to N1"
 to french "L'angle est maintenant de N1";
+
+translate "Empty gem basket"
+to french "Videz le panier de gemmes";
+
+translate "Wind the mechanism"
+to french "Remontez le mécanisme";
+
+translate "Basket"
+to french "Panier";
+
+translate "Replace basket"
+to french "Remplacez le panier";
+
+translate "Health"
+to french "Santé";
+
+translate "To install a Basket, you need:"
+to french "Pour installer un panier, vous avez besoin de:";
+
+translate papyrusbasket to french masculine
+{
+  ns "Panier en papyrus"; np "Panier en papyrus";
+}

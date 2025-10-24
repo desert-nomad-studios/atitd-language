@@ -95,3 +95,25 @@ to french "Nombre de lapins : N1 N2";
 
 translate "With high dexterity, you are able to keep the bones of this rabbit intact after slaughtering it."
 to french "Avec une grande dextérité, vous avez pu préserver les os de ce lapin après l'avoir abbatu";
+
+translate "Add cabbage to turn into rabbit food"
+to french "Ajoutez du chou pour en faire de la nourriture pour lapin";
+
+translate "Add carrots to turn into rabbit food"
+to french "Ajoutez des carottes pour en faire de la nourriture pour lapin";
+
+translate "Add rabbit food"
+to french "Ajoutez de la nourriture pour lapin";
+
+translate AnimalBones to french masculine
+{
+  ns "Os d’animaux"; np "Os d’animaux";
+}
+
+translate RabbitFood to french feminine
+{
+  ns "Nourriture de lapin"; np "Nourriture de lapin";
+}
+
+translate "There is N1 rabbit food in the feed bowls"
+to french "Les bols pour lapins contiennent N1 aliments pour lapins";
