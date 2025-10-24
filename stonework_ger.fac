@@ -59,6 +59,13 @@ swa "Schneidbarer Stein";
   pn "Schneidbare Steine"; pg "Schneidbare Steine"; pd "Schneidbaren Steinen"; pa "Schneidbare Steine";
 }
 
+translate MediumStone to german masculinecollective
+{
+swa "Mittlerer Stein";
+sn "Mittlerer Stein"; sg "Mittlerer Stein"; sd "Mittlerer Stein"; sa "Mittlerer Stein";
+pn "Mittlere Steine"; pg "Mittlere Steine"; pd "Mittleren Steinen"; pa "Mittlere Steine";
+}
+
 translate CutStone to german masculinecollective
 {
   swa "Geschnittener Stein";

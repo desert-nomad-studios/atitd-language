@@ -95,3 +95,51 @@ to german "Ziehe die Feder der Trommelschleifmaschine auf";
 
 translate "Spring: N1"
 to german "Feder: N1";
+
+
+
+translate AluminumPowder to german neuter { swa "Aluminiumpulver"; sn "Aluminiumpulver"; sg "Aluminiumpulvers"; sd "Aluminiumpulver"; sa "Aluminiumpulver"; pn "Aluminiumpulver"; pg "Aluminiumpulver"; pd "Aluminiumpulvern"; pa "Aluminiumpulver"; }
+
+translate AntimonyPowder to german neuter { swa "Antimonpulver"; sn "Antimonpulver"; sg "Antimonpulvers"; sd "Antimonpulver"; sa "Antimonpulver"; pn "Antimonpulver"; pg "Antimonpulver"; pd "Antimonpulvern"; pa "Antimonpulver"; }
+
+translate BrassPowder to german neuter { swa "Messingpulver"; sn "Messingpulver"; sg "Messingpulvers"; sd "Messingpulver"; sa "Messingpulver"; pn "Messingpulver"; pg "Messingpulver"; pd "Messingpulvern"; pa "Messingpulver"; }
+
+translate BronzePowder to german neuter { swa "Bronzepulver"; sn "Bronzepulver"; sg "Bronzepulvers"; sd "Bronzepulver"; sa "Bronzepulver"; pn "Bronzepulver"; pg "Bronzepulver"; pd "Bronzepulvern"; pa "Bronzepulver"; }
+
+translate CobaltPowder to german neuter { swa "Kobaltpulver"; sn "Kobaltpulver"; sg "Kobaltpulvers"; sd "Kobaltpulver"; sa "Kobaltpulver"; pn "Kobaltpulver"; pg "Kobaltpulver"; pd "Kobaltpulvern"; pa "Kobaltpulver"; }
+
+translate CopperPowder to german neuter { swa "Kupferpulver"; sn "Kupferpulver"; sg "Kupferpulvers"; sd "Kupferpulver"; sa "Kupferpulver"; pn "Kupferpulver"; pg "Kupferpulver"; pd "Kupferpulvern"; pa "Kupferpulver"; }
+
+translate GoldPowder to german neuter { swa "Goldpulver"; sn "Goldpulver"; sg "Goldpulvers"; sd "Goldpulver"; sa "Goldpulver"; pn "Goldpulver"; pg "Goldpulver"; pd "Goldpulvern"; pa "Goldpulver"; }
+
+translate IronPowder to german neuter { swa "Eisenpulver"; sn "Eisenpulver"; sg "Eisenpulvers"; sd "Eisenpulver"; sa "Eisenpulver"; pn "Eisenpulver"; pg "Eisenpulver"; pd "Eisenpulvern"; pa "Eisenpulver"; }
+
+translate LeadPowder to german neuter { swa "Bleipulver"; sn "Bleipulver"; sg "Bleipulvers"; sd "Bleipulver"; sa "Bleipulver"; pn "Bleipulver"; pg "Bleipulver"; pd "Bleipulvern"; pa "Bleipulver"; }
+
+translate MagnesiumPowder to german neuter { swa "Magnesiumpulver"; sn "Magnesiumpulver"; sg "Magnesiumpulvers"; sd "Magnesiumpulver"; sa "Magnesiumpulver"; pn "Magnesiumpulver"; pg "Magnesiumpulver"; pd "Magnesiumpulvern"; pa "Magnesiumpulver"; }
+
+translate MetalBluePowder to german neuter { swa "Metallblaupulver"; sn "Metallblaupulver"; sg "Metallblaupulvers"; sd "Metallblaupulver"; sa "Metallblaupulver"; pn "Metallblaupulver"; pg "Metallblaupulver"; pd "Metallblaupulvern"; pa "Metallblaupulver"; }
+
+translate MoonSteelPowder to german neuter { swa "Mondstahlpulver"; sn "Mondstahlpulver"; sg "Mondstahlpulvers"; sd "Mondstahlpulver"; sa "Mondstahlpulver"; pn "Mondstahlpulver"; pg "Mondstahlpulver"; pd "Mondstahlpulvern"; pa "Mondstahlpulver"; }
+
+translate OctecsAlloyPowder to german neuter { swa "Octecs Legierungspulver"; sn "Octecs Legierungspulver"; sg "Octecs Legierungspulvers"; sd "Octecs Legierungspulver"; sa "Octecs Legierungspulver"; pn "Octecs Legierungspulver"; pg "Octecs Legierungspulver"; pd "Octecs Legierungspulvern"; pa "Octecs Legierungspulver"; }
+
+translate PewterPowder to german neuter { swa "Zinnpulver"; sn "Zinnpulver"; sg "Zinnpulvers"; sd "Zinnpulver"; sa "Zinnpulver"; pn "Zinnpulver"; pg "Zinnpulver"; pd "Zinnpulvern"; pa "Zinnpulver"; }
+
+translate PlatinumPowder to german neuter { swa "Platinpulver"; sn "Platinpulver"; sg "Platinpulvers"; sd "Platinpulver"; sa "Platinpulver"; pn "Platinpulver"; pg "Platinpulver"; pd "Platinpulvern"; pa "Platinpulver"; }
+
+translate SilverPowder to german neuter { swa "Silberpulver"; sn "Silberpulver"; sg "Silberpulvers"; sd "Silberpulver"; sa "Silberpulver"; pn "Silberpulver"; pg "Silberpulver"; pd "Silberpulvern"; pa "Silberpulver"; }
+
+translate SteelPowder to german neuter { swa "Stahlpulver"; sn "Stahlpulver"; sg "Stahlpulvers"; sd "Stahlpulver"; sa "Stahlpulver"; pn "Stahlpulver"; pg "Stahlpulver"; pd "Stahlpulvern"; pa "Stahlpulver"; }
+
+translate SunSteelPowder to german neuter { swa "Sonnenstahlpulver"; sn "Sonnenstahlpulver"; sg "Sonnenstahlpulvers"; sd "Sonnenstahlpulver"; sa "Sonnenstahlpulver"; pn "Sonnenstahlpulver"; pg "Sonnenstahlpulver"; pd "Sonnenstahlpulvern"; pa "Sonnenstahlpulver"; }
+
+translate ThothsMetalPowder to german neuter { swa "Thoths Metallpulver"; sn "Thoths Metallpulver"; sg "Thoths Metallpulvers"; sd "Thoths Metallpulver"; sa "Thoths Metallpulver"; pn "Thoths Metallpulver"; pg "Thoths Metallpulver"; pd "Thoths Metallpulvern"; pa "Thoths Metallpulver"; }
+
+translate TinPowder to german neuter { swa "Zinnpulver"; sn "Zinnpulver"; sg "Zinnpulvers"; sd "Zinnpulver"; sa "Zinnpulver"; pn "Zinnpulver"; pg "Zinnpulver"; pd "Zinnpulvern"; pa "Zinnpulver"; }
+
+translate WaterMetalPowder to german neuter { swa "Wassermetallpulver"; sn "Wassermetallpulver"; sg "Wassermetallpulvers"; sd "Wassermetallpulver"; sa "Wassermetallpulver"; pn "Wassermetallpulver"; pg "Wassermetallpulver"; pd "Wassermetallpulvern"; pa "Wassermetallpulver"; }
+
+translate ZincPowder to german neuter { swa "Zinkpulver"; sn "Zinkpulver"; sg "Zinkpulvers"; sd "Zinkpulver"; sa "Zinkpulver"; pn "Zinkpulver"; pg "Zinkpulver"; pd "Zinkpulvern"; pa "Zinkpulver"; }
+
+translate ElectrumPowder to german neuter { swa "Elektrumpulver"; sn "Elektrumpulver"; sg "Elektrumpulvers"; sd "Elektrumpulver"; sa "Elektrumpulver"; pn "Elektrumpulver"; pg "Elektrumpulver"; pd "Elektrumpulvern"; pa "Elektrumpulver"; }

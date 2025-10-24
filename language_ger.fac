@@ -71,8 +71,8 @@ to german "Sprache";
 translate "Interface"
 to german "Oberfläche";
 
-translate "Your language has been set to K1"
-to german "Deine Sprache wurde auf K1 gestellt";
+translate "Your language has been set to O1"
+to german "Deine Sprache wurde auf O1(swa) gestellt";
 
 translate "Your language has been set to German"
 to german "Deine Sprache wurde auf Deutsch gestellt";

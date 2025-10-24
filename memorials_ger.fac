@@ -1,0 +1,22 @@
+module memorials_ger;
+
+translate Memorial to german neuter
+{
+swa "Denkmal";
+sn "Denkmal"; sg "Denkmals"; sd "Denkmal"; sa "Denkmal";
+pn "Denkmäler"; pg "Denkmäler"; pd "Denkmälern"; pa "Denkmäler";
+}
+translate MemorialStella to german neuter
+{
+swa "Stella-Denkmal";
+sn "Stella-Denkmal"; sg "Stella-Denkmals"; sd "Stella-Denkmal"; sa "Stella-Denkmal";
+pn "Stella-Denkmäler"; pg "Stella-Denkmäler"; pd "Stella-Denkmälern"; pa "Stella-Denkmäler";
+}
+translate "Set Dedication" to german "Widmung setzen";
+translate "View Dedication" to german "Widmung ansehen";
+translate "Player Name: " to german "Spielername: ";
+translate "A Memorial Dedicated to K1" to german "Ein Denkmal, gewidmet K1";
+translate "A Memorial Dedicated to Absent Companions" to german "Ein Denkmal den abwesenden Gefährten gewidmet";
+translate "A Memorial" to german "Ein Denkmal";
+translate "Read the creators message" to german "Nachricht des Schöpfers lesen";
+translate "This memorial is dedicated to:" to german "Dieses Denkmal ist gewidmet an:";
