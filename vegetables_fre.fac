@@ -108,6 +108,18 @@ to french "Votre O1(ns) s'est desséché et est mort. Peut-être ne l'avez-vous pas
 translate "Your O1 didn't produce anything useful. Maybe the land is not suitable?"
 to french "Votre O1(ns) s'est désseché et est mort. Peut-être que le type de sol n'est pas adéquat ?";
 
+translate "This field can no longer support another crop cycle"
+to french "Ce champ ne peut plus soutenir un autre cycle de culture";
+
+translate "Return this field to the ground"
+to french "Rendez ce champ à la terre";
+
+translate "O1 are ready for harvest"
+to french "O1(np) sont prêts pour la récolte";
+
+translate "Harvest crop"
+to french "Récoltez votre culture";
+
 //what,", Grew 77"));
 //Achieved(string(what,", Grew 777"));
 //Achieved(string(what,", Grew 7777"));

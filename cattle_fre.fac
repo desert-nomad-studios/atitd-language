@@ -93,3 +93,11 @@ translate "You don't have any K1." to french "Vous n'avez pas de K1";
 
 translate "Load with how much K1? (max N1)" to french "Remplir avec combien de K1 ? (Max N1)";
 
+translate "The cattle need somewhere to drink"
+to french "Le bétail a besoin d’un endroit pour boire";
+
+translate "This is a hiefer"
+to french "C’est une génisse";
+
+translate "Attach plough"
+to french "Attachez la charrue";

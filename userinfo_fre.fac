@@ -149,3 +149,6 @@ to french "U1(name) est introuvable";
 
 translate "NB: Only the author can see their notes."
 to french "Remarque : Seul l'auteur peut voir ses notes.";
+
+translate "Add friend"
+to french "Ajoutez un ami";
