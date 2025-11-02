@@ -1,0 +1,67 @@
+module language_spa;
+
+
+translate German to spanish masculine
+{
+ns "Alemán"; np "Alemán";
+}
+translate English to spanish masculine
+{
+ns "Inglés"; np "Inglés";
+}
+translate French to spanish masculine
+{
+ns "Francés"; np "Francés";
+}
+translate Spanish to spanish masculine
+{
+ns "Español"; np "Español";
+}
+
+translate "English"
+to spanish "Inglés";
+
+translate "Spanish"
+to spanish "Español";
+
+translate "French"
+to spanish "Francés";
+
+translate "Norwegian"
+to spanish "Noruego";
+
+translate "German"
+to spanish "Alemán";
+
+translate "No Translate (raw)"
+to spanish "Sin traducir (crudo)";
+
+translate "language"
+to spanish "Idiomas";
+
+translate "Interface"
+to spanish "Interfaz";
+
+translate "Your language has been set to "
+to spanish "Su idioma ahora es ";
+
+translate "Your language has been set to O1"
+to spanish "Su interfaz ahora está en O1(ns)";
+
+translate "fluent-english"
+to spanish "Inglés fluido";
+
+translate "fluent-french"
+to spanish "Francés fluido";
+
+translate "fluent-german"
+to spanish "Alemán fluido";
+
+translate "Interface Language:"
+to spanish "Idioma de la interfaz:";
+
+translate "I can mentor in:"
+to spanish "Puedo ser mentor en:";
+
+translate "I am fluent in:"
+to spanish "Soy fluiente en:";

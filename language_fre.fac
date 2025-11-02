@@ -30,15 +30,6 @@ to french "Votre langue est maintenant ";
 translate "Your language has been set to O1"
 to french "Votre interface est maintenant en O1(ns)";
 
-translate "Fluency for Mentoring"
-to french "Langues de mentorat";
-
-translate "I can mentor in:"
-to french "Je peux être mentor en :";
-
-translate "Game Interface Language/Default"
-to french "Langue de l'interface/Défaut";
-
 translate "fluent-english"
 to french "Anglais courant";
 
@@ -48,3 +39,11 @@ to french "Français courant";
 translate "fluent-german"
 to french "Français courant";
 
+translate "Interface Language:"
+to french "Langue de l'interface:";
+
+translate "I can mentor in:"
+to french "Je peux mentorer en:";
+
+translate "I am fluent in:"
+to french "Je suis courant en:";

@@ -107,3 +107,12 @@ to german "Dies ist keine Sprache:";
 
 translate "yes"
 to german "Ja";
+
+translate "Interface Language:"
+to german "Benutzeroberflächensprache:";
+
+translate "I am fluent in:"
+to german "Ich bin fließend in:";
+
+translate "I can mentor in:"
+to german "Ich kann mentoren in:";
